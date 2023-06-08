@@ -51,10 +51,10 @@ A passionate Software Developer 🚀
 
  <p align="center">
   <a href="https://github.com/aalhabib001">
-   <img width="430" align="center" src="https://github-readme-stats-pearl-ten-44.vercel.app/api?username=aalhabib001&show_icons=true&theme=slateorange&count_private=true">
+   <img width="430" align="center" src="https://github-readme-stats-pearl-ten-44.vercel.app/api?username=shahriarkhan099&show_icons=true&theme=slateorange&count_private=true">
   </a>
   <a href="https://github.com/aalhabib001">
-    <img align="center" src="https://github-readme-stats-pearl-ten-44.vercel.app/api/top-langs/?username=aalhabib001&layout=compact&theme=slateorange&langs_count=8" />
+    <img align="center" src="https://github-readme-stats-pearl-ten-44.vercel.app/api/top-langs/?username=shahriarkhan099&layout=compact&theme=slateorange&langs_count=8" />
   </a>
  </p>
 
