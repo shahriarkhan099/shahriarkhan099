@@ -10,7 +10,7 @@ I live in Dhaka, Bangladesh. I have a passion for coding and exploring new place
 <h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp;  ![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java)
-[![My Skills](https://skillicons.dev/icons?i=java&theme=light?style=flat-square)]
+[![My Skills](https://skillicons.dev/icons?i=java&theme=light?style=flat-square)](https://skillicons.dev)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
