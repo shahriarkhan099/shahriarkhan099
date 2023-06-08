@@ -9,7 +9,6 @@ I live in Dhaka, Bangladesh. I have a passion for coding and exploring new place
 ### Connect with Me
 <!-- <a href="mailto:shahriar.khan099@gmail.com"><img src="[https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white](https://user-images.githubusercontent.com/87497469/204072688-30ac402a-27d6-434c-91e7-d837cf546da7.svg)"></a> <a href="https://www.linkedin.com/in/danielberger18/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> <a href="https://www.youtube.com/channel/UCMGSgppCK-hp4zmeqhp7CIw"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a> <a href="https://www.danny-berger.dev"><img src="https://img.shields.io/badge/portfolio-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"></a>  -->
 
-<p align="center">
 
 <a href="mailto:shahriar.khan099@gmail.com">
     <img width="50px" src="https://user-images.githubusercontent.com/87497469/204072698-3df67af4-ed93-4708-b025-d552c6bd8f44.svg" alt="Gmail"/>
@@ -22,7 +21,6 @@ I live in Dhaka, Bangladesh. I have a passion for coding and exploring new place
  <a href="https://shahriarkhan.info">
   <img src="https://img.shields.io/badge/portfolio-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white">
  </a> 
-</p>
 
 
 <h3>🛠 Tech Stack</h3>
