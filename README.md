@@ -41,12 +41,12 @@ A passionate Software Developer 🚀
 
 <br/>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aalhabib001&label=Profile%20views&color=0e75b6&style=flat" alt="aalhabib001" /> </p>  
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shahriarkhan099&label=Profile%20views&color=0e75b6&style=flat" alt="shahriarkhan099" /> </p>  
   
 ## <img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="40"> **Github Stats:**
 
 <!-- <p align="center">
-   <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=aalhabib001=slateorange&border=DDDDDD&stroke=4FDD21&fire=C7DD4F&currStreakNum=DDDB61"/>
+   <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=aalhabib001&theme=slateorange&border=DDDDDD&stroke=4FDD21&fire=C7DD4F&currStreakNum=DDDB61"/>
 </p> -->
 
  <p align="center">
