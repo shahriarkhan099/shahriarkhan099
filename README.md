@@ -19,7 +19,7 @@ I live in Dhaka, Bangladesh. I have a passion for coding and exploring new place
 </a>
  
  <a href="https://shahriarkhan.info">
-  <img src="https://img.shields.io/badge/portfolio-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white">
+  <img width="50px" src="https://img.shields.io/badge/portfolio-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white">
  </a> 
 
 
