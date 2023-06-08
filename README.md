@@ -6,9 +6,12 @@ I live in Dhaka, Bangladesh. I have a passion for coding and exploring new place
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=I+am+a+passionate+Software+Engineer;I+am+Md+Shahriar+Khan)](https://git.io/typing-svg)
 
-### Connect with Me
+<!-- ### Connect with Me -->
 <!-- <a href="mailto:shahriar.khan099@gmail.com"><img src="[https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white](https://user-images.githubusercontent.com/87497469/204072688-30ac402a-27d6-434c-91e7-d837cf546da7.svg)"></a> <a href="https://www.linkedin.com/in/danielberger18/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> <a href="https://www.youtube.com/channel/UCMGSgppCK-hp4zmeqhp7CIw"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a> <a href="https://www.danny-berger.dev"><img src="https://img.shields.io/badge/portfolio-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"></a>  -->
 
+Visit my [Portfolio] <a href="https://shahriarkhan.info"> <img src="https://img.shields.io/badge/portfolio-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"> </a> 
+ 
+### Connect with Me
 
 <a href="mailto:shahriar.khan099@gmail.com">
     <img width="50px" src="https://user-images.githubusercontent.com/87497469/204072698-3df67af4-ed93-4708-b025-d552c6bd8f44.svg" alt="Gmail"/>
@@ -17,10 +20,11 @@ I live in Dhaka, Bangladesh. I have a passion for coding and exploring new place
 <a href="https://www.linkedin.com/in/shahriarkhan099/" target="_blank">
 	<img width="50px" src="https://user-images.githubusercontent.com/87497469/204072724-84eb6e97-35ab-4f7e-b7fc-2605e30767b4.svg" alt="LinkedIn"/>
 </a>
+
+<a href="https://twitter.com/shahriarkhan099" target="_blank">
+    <img width="50px" src="https://user-images.githubusercontent.com/87497469/204072750-a67c5225-725e-4b35-bc0c-f98c910dc0cd.svg" alt="Twitter" />
+</a>
  
- <a href="https://shahriarkhan.info">
-  <img width="50px" src="https://img.shields.io/badge/portfolio-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white">
- </a> 
 
 
 <h3>🛠 Tech Stack</h3>
