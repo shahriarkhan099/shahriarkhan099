@@ -11,8 +11,7 @@ I live in Dhaka, Bangladesh. I like traveling, and coding.
 
 - 💻 &nbsp;  ![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
-![C++](https://img.shields.io/badge/-C++-black?style=flat-square&logo=cplusplus)
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=c)
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Node.Js-black?style=flat-square&logo=Node.js)
 
