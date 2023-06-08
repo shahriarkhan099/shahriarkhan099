@@ -59,6 +59,13 @@ I live in Dhaka, Bangladesh. I have a passion for coding and exploring new place
 ![GitHub](https://img.shields.io/badge/-Jenkins-black?style=flat-square&logo=jenkins)
 ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-black?style=flat-square&logo=amazon-aws)
 
+<br/>
+
+### My Favorite Project Repos
+* <a href="https://github.com/2009-fsa-cs-ashes-archers/JobMapApp">JavaScript Jobs USA</a> - Mapbox Job Search Tool
+* <a href="https://github.com/FSA-2009-Revenge-of-the-Shoppers/Grace-Shopper">YoDaddy</a> - E-Commerce with tons of Baby Yoda
+* <a href="https://github.com/KungoJung/expense-tracker-electron">These Expenses</a> - Desktop Expense Tracker
+
 
 <br/>
 <br/>
