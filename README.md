@@ -6,10 +6,12 @@ I live in Dhaka, Bangladesh. I have a passion for coding and exploring new place
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=I+am+a+passionate+Software+Engineer;I+am+Md+Shahriar+Khan)](https://git.io/typing-svg)
 
+<br/>
 
 <a href="https://shahriarkhan.info"> Visit my <img src="https://img.shields.io/badge/portfolio-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"> </a>
  
- 
+<br/>
+
 ### Connect with Me
 
 <a href="mailto:shahriar.khan099@gmail.com">
@@ -25,6 +27,7 @@ I live in Dhaka, Bangladesh. I have a passion for coding and exploring new place
 </a>
  
 
+<br/>
 
 <h3>🛠 Tech Stack</h3>
 
