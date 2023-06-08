@@ -58,24 +58,17 @@ A passionate Software Developer 🚀
   </a>
  </p>
 
-Visit my [Portfolio](http://habib.info.bd)
+Visit my [Portfolio](http://habib.info.bd](https://shahriarkhan.info/)
 
 <h3> 🤝🏻 Connect with Me </h3>
 
 <p align="center">
-<a href="https://habib.info.bd/"><img alt="PortFolio" src="https://img.shields.io/badge/habib.info.bd-Portfolio-blue?style=flat-square&logo=google-chrome"></a>
-<a href="https://www.linkedin.com/in/aalhabib001/"><img alt="LinkedIn" src="https://img.shields.io/badge/aalhabib001-linkedIn-brightgreen?style=flat-square&logo=linkedin"></a>
-<a href="https://www.facebook.com/aalhabib001/"><img alt="Facebook" src="https://img.shields.io/badge/aalhabib001-facebook-blue?style=flat&logo=facebook"></a>
-<a href="mailto:aalhabib001@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-aalhabib001@gmail.com-blue?style=flat-square&logo=gmail"></a>
+<a href="[https://shahriarkhan.info/]"><img alt="PortFolio" src="https://img.shields.io/badge/shahriarkhan.info-Portfolio-blue?style=flat-square&logo=google-chrome"></a>
+<a href="[https://www.linkedin.com/in/shahriarkhan099/]"><img alt="LinkedIn" src="https://img.shields.io/badge/shahriarkhan099-linkedIn-brightgreen?style=flat-square&logo=linkedin"></a>
+<a href="mailto:shahriar.khan099@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-shahriar.khan099@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
 <br/>
-<!--
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal)](https://github.com/piyushsuthar/github-readme-quotes)
 
-<br/>
-
-<img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up.">
--->
 
 
