@@ -2,7 +2,7 @@
 
 
 ## Hello there, I'm [Md Shahriar Khan](https://shahriarkhan.info)
-I live in Dhaka, Bangladesh. I like traveling, and coding.
+I live in Dhaka, Bangladesh. I have a passion for coding and exploring new places.
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=I+am+a+passionate+Software+Engineer;I+am+Md+Shahriar+Khan)](https://git.io/typing-svg)
 
@@ -17,6 +17,7 @@ I live in Dhaka, Bangladesh. I like traveling, and coding.
 
 - 🌐 &nbsp; 
 ![Java](https://img.shields.io/badge/-Spring%20Boot-black?style=flat-square&logo=springboot)
+[![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java)](https://github.com/)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![React](https://img.shields.io/badge/-Angular-black?style=flat-square&logo=angular)
 <!-- ![Java](https://img.shields.io/badge/-Express.Js-black?style=flat-square&logo=express) -->
