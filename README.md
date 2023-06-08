@@ -58,7 +58,7 @@ A passionate Software Developer 🚀
   </a>
  </p>
 
-Visit my [Portfolio](http://habib.info.bd](https://shahriarkhan.info/)
+Visit my [Portfolio](https://shahriarkhan.info)
 
 <h3> 🤝🏻 Connect with Me </h3>
 
