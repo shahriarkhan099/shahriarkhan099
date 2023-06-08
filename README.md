@@ -2,19 +2,18 @@
 
 
 ## Hello there, I'm [Md Shahriar Khan](https://shahriarkhan.info)
-A passionate Software Developer
+I live in Dhaka, Bangladesh. I like traveling, and coding.
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=I+am+a+passionate+Software+Engineer;I+am+Md+Shahriar+Khan)](https://git.io/typing-svg)
 
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp;  ![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java) 
-![C++](https://img.shields.io/badge/-C++-black?style=flat-square&logo=cplusplus)
-![C++](https://img.shields.io/badge/-C-black?style=flat-square&logo=c)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+- 💻 &nbsp;  ![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
-![TypeScript](https://img.shields.io/badge/-Dart-black?style=flat-square&logo=dart)
+![C++](https://img.shields.io/badge/-C++-black?style=flat-square&logo=cplusplus)
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=c)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Node.Js-black?style=flat-square&logo=Node.js)
 
 - 🌐 &nbsp; 
