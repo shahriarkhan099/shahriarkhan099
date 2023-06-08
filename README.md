@@ -61,7 +61,7 @@ I live in Dhaka, Bangladesh. I have a passion for coding and exploring new place
 
 <br/>
 
-### My Favorite Project
+### My Favorite Projects
 * <a href="https://github.com/shahriarkhan099/skilluction">Skilluction</a> - eLearning Web App System
 * <a href="https://github.com/shahriarkhan099/dishaven">Dishaven</a> - Blogging Web App System
 * <a href="https://github.com/shahriarkhan099/gardengro">Gardengro</a> - eCommerce Web App System
