@@ -29,6 +29,10 @@ I live in Dhaka, Bangladesh. I have a passion for coding and exploring new place
     <img width="50px" src="https://user-images.githubusercontent.com/87497469/204072714-7f7b6687-93ff-46ae-a470-a21a8c6f9158.svg" alt="GitHub"/>
 </a>
 
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=nTQUwghvy5Q" target="_blank">
+ <img src="http://img.youtube.com/vi/nTQUwghvy5Q/mqdefault.jpg" alt="Watch the video" width="240" height="180" border="10" />
+</a>
+
 
 <br/>
 <br/>
