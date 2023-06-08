@@ -45,16 +45,16 @@ A passionate Software Developer 🚀
   
 ## <img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="40"> **Github Stats:**
 
-<p align="center">
-   <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=aalhabib001&theme=slateorange&border=DDDDDD&stroke=4FDD21&fire=C7DD4F&currStreakNum=DDDB61"/>
-</p>
+<!-- <p align="center">
+   <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=aalhabib001=slateorange&border=DDDDDD&stroke=4FDD21&fire=C7DD4F&currStreakNum=DDDB61"/>
+</p> -->
 
  <p align="center">
   <a href="https://github.com/aalhabib001">
-   <img width="430" align="center" src="https://github-readme-stats.vercel.app/api?username=aalhabib001&show_icons=true&theme=slateorange&count_private=true">
+   <img width="430" align="center" src="https://github-readme-stats-pearl-ten-44.vercel.app/api?username=aalhabib001&show_icons=true&theme=slateorange&count_private=true">
   </a>
   <a href="https://github.com/aalhabib001">
-    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=aalhabib001&layout=compact&theme=slateorange&langs_count=8" />
+    <img align="center" src="https://github-readme-stats-pearl-ten-44.vercel.app/api/top-langs/?username=aalhabib001&layout=compact&theme=slateorange&langs_count=8" />
   </a>
  </p>
 
