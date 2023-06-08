@@ -6,10 +6,9 @@ I live in Dhaka, Bangladesh. I have a passion for coding and exploring new place
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=I+am+a+passionate+Software+Engineer;I+am+Md+Shahriar+Khan)](https://git.io/typing-svg)
 
-<!-- ### Connect with Me -->
-<!-- <a href="mailto:shahriar.khan099@gmail.com"><img src="[https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white](https://user-images.githubusercontent.com/87497469/204072688-30ac402a-27d6-434c-91e7-d837cf546da7.svg)"></a> <a href="https://www.linkedin.com/in/danielberger18/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> <a href="https://www.youtube.com/channel/UCMGSgppCK-hp4zmeqhp7CIw"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a> <a href="https://www.danny-berger.dev"><img src="https://img.shields.io/badge/portfolio-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"></a>  -->
 
 <a href="https://shahriarkhan.info"> Visit my <img src="https://img.shields.io/badge/portfolio-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"> </a>
+ 
  
 ### Connect with Me
 
@@ -56,19 +55,7 @@ I live in Dhaka, Bangladesh. I have a passion for coding and exploring new place
 
 <br/>
 
- ![Danny's GitHub stats](https://github-readme-stats.vercel.app/api?username=shahriarkhan099&show_icons=true&theme=dark)
- 
- <br/>
-
-Visit my [Portfolio](https://shahriarkhan.info)
-
-<h3> 🤝🏻 Connect with Me </h3>
-
-<p align="center">
-<a href="[https://shahriarkhan.info/]"><img alt="PortFolio" src="https://img.shields.io/badge/shahriarkhan.info-Portfolio-blue?style=flat-square&logo=google-chrome"></a>
-<a href="[https://www.linkedin.com/in/shahriarkhan099/]"><img alt="LinkedIn" src="https://img.shields.io/badge/shahriarkhan099-linkedIn-brightgreen?style=flat-square&logo=linkedin"></a>
-<a href="mailto:shahriar.khan099@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-shahriar.khan099@gmail.com-blue?style=flat-square&logo=gmail"></a>
-</p>
+ ![Md Shahriar Khan's GitHub stats](https://github-readme-stats.vercel.app/api?username=shahriarkhan099&show_icons=true&theme=dark)
 
 <br/>
 
