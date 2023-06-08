@@ -1,7 +1,7 @@
 
 
 
-## Hello there, I'm [Md Shahriar Khan](https://shahriarkhan.info)
+## Hello, I'm [Md Shahriar Khan](https://shahriarkhan.info)
 I live in Dhaka, Bangladesh. I have a passion for coding and exploring new places.
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=I+am+a+passionate+Software+Engineer;I+am+Md+Shahriar+Khan)](https://git.io/typing-svg)
