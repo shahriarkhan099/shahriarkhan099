@@ -50,10 +50,10 @@ A passionate Software Developer 🚀
 </p> -->
 
  <p align="center">
-  <a href="https://github.com/aalhabib001">
+<!--   <a href="https://github.com/shahriarkhan099">
    <img width="430" align="center" src="https://github-readme-stats-pearl-ten-44.vercel.app/api?username=shahriarkhan099&show_icons=true&theme=slateorange&count_private=true">
-  </a>
-  <a href="https://github.com/aalhabib001">
+  </a> -->
+  <a href="https://github.com/shahriarkhan099">
     <img align="center" src="https://github-readme-stats-pearl-ten-44.vercel.app/api/top-langs/?username=shahriarkhan099&layout=compact&theme=slateorange&langs_count=8" />
   </a>
  </p>
