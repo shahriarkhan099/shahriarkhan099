@@ -1,8 +1,8 @@
 
 
 
-## Hi there, I'm [Md Shahriar Khan](https://shahriarkhan.info) 👋
-A passionate Software Developer 🚀 
+## Hi there, I'm [Md Shahriar Khan](https://shahriarkhan.info)
+A passionate Software Developer
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=I+am+a+passionate+Software+Engineer;I+am+Md+Shahriar+Khan)](https://git.io/typing-svg)
 
@@ -42,6 +42,8 @@ A passionate Software Developer 🚀
 <br/>
 
  ![Danny's GitHub stats](https://github-readme-stats.vercel.app/api?username=shahriarkhan099&show_icons=true&theme=dark)
+ 
+ <br/>
 
 Visit my [Portfolio](https://shahriarkhan.info)
 
