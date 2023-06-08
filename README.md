@@ -6,7 +6,6 @@ I live in Dhaka, Bangladesh. I have a passion for coding and exploring new place
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=I+am+a+passionate+Software+Engineer;I+am+Md+Shahriar+Khan)](https://git.io/typing-svg)
 
-<br/>
 
 <a href="https://shahriarkhan.info"> Visit my <img src="https://img.shields.io/badge/portfolio-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"> </a>
  
@@ -25,8 +24,9 @@ I live in Dhaka, Bangladesh. I have a passion for coding and exploring new place
 <a href="https://twitter.com/shahriarkhan099" target="_blank">
     <img width="50px" src="https://user-images.githubusercontent.com/87497469/204072750-a67c5225-725e-4b35-bc0c-f98c910dc0cd.svg" alt="Twitter" />
 </a>
- 
 
+
+<br/>
 <br/>
 
 <h3>🛠 Tech Stack</h3>
@@ -56,6 +56,7 @@ I live in Dhaka, Bangladesh. I have a passion for coding and exploring new place
 ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-black?style=flat-square&logo=amazon-aws)
 
 
+<br/>
 <br/>
 
  ![Md Shahriar Khan's GitHub stats](https://github-readme-stats.vercel.app/api?username=shahriarkhan099&show_icons=true&theme=dark)
