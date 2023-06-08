@@ -42,12 +42,6 @@ A passionate Software Developer 🚀
 <br/>
 
  ![Danny's GitHub stats](https://github-readme-stats.vercel.app/api?username=shahriarkhan099&show_icons=true&theme=dark)
- <p align="center">
-  <a href="https://github.com/shahriarkhan099">
-    <img src="https://github-readme-stats-pearl-ten-44.vercel.app/api/top-langs/?username=shahriarkhan099&layout=compact&theme=dark" />
-  </a>
- </p>
- <br>
 
 Visit my [Portfolio](https://shahriarkhan.info)
 
