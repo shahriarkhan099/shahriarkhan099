@@ -82,6 +82,8 @@ I live in Dhaka, Bangladesh. I have a passion for coding and exploring new place
 <br/>
 
  ![Md Shahriar Khan's GitHub stats](https://github-readme-stats.vercel.app/api?username=shahriarkhan099&show_icons=true&theme=dark)
+ 
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shahriarkhan099&show_icons=true&theme=dark)
 
 <br/>
 
