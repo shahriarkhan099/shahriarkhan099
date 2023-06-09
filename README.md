@@ -27,7 +27,7 @@ I live in Dhaka, Bangladesh. I have a passion for coding and exploring new place
     <img width="50px" src="https://user-images.githubusercontent.com/87497469/204072750-a67c5225-725e-4b35-bc0c-f98c910dc0cd.svg" alt="Twitter" />
 </a>
 
-<a href="https://youtube.com/shahriarkhan099" target="_blank">
+<a href="https://www.youtube.com/@shahriarkhan099" target="_blank">
     <img width="90px" src="https://github.com/shahriarkhan099/shahriarkhan099/assets/77568415/7caff330-7001-4806-a199-122b49893d9f" alt="YouTube" />
 </a>
 
