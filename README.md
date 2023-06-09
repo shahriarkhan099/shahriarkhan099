@@ -45,7 +45,7 @@ I live in Dhaka, Bangladesh. I have a passion for coding and exploring new place
 <br/>
 
 <h3>🛠 Tech Stack</h3>
-
+![java](https://github.com/shahriarkhan099/shahriarkhan099/assets/77568415/54b38380-7e9e-400b-b816-1852f656d529)
 - 💻 &nbsp;  ![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
