@@ -9,6 +9,7 @@
 - I love problem solving and developing web apps
 
 <br/>
+<br/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=I+am+a+passionate+Software+Engineer;I+am+Md+Shahriar+Khan)](https://git.io/typing-svg)
 
@@ -60,6 +61,7 @@
  
 
 
+<br/>
 <br/>
 
 
