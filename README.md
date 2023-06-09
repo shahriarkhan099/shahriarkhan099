@@ -13,38 +13,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=I+am+a+passionate+Software+Engineer;I+am+Md+Shahriar+Khan)](https://git.io/typing-svg)
 
 
-<a href="https://shahriarkhan.info"> Visit my <img src="https://img.shields.io/badge/portfolio-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"> </a>
- 
-<br/>
-
-### Connect with Me
-
-<a href="mailto:shahriar.khan099@gmail.com">
-    <img width="50px" src="https://user-images.githubusercontent.com/87497469/204072698-3df67af4-ed93-4708-b025-d552c6bd8f44.svg" alt="Gmail"/>
-</a>
-	
-<a href="https://www.linkedin.com/in/shahriarkhan099/" target="_blank">
-	<img width="50px" src="https://user-images.githubusercontent.com/87497469/204072724-84eb6e97-35ab-4f7e-b7fc-2605e30767b4.svg" alt="LinkedIn"/>
-</a>
-
-<a href="https://twitter.com/shahriarkhan099" target="_blank">
-    <img width="50px" src="https://user-images.githubusercontent.com/87497469/204072750-a67c5225-725e-4b35-bc0c-f98c910dc0cd.svg" alt="Twitter" />
-</a>
-
-<a href="https://www.youtube.com/@shahriarkhan099" target="_blank">
-    <img width="100px" src="https://github.com/shahriarkhan099/shahriarkhan099/assets/77568415/7caff330-7001-4806-a199-122b49893d9f" alt="YouTube" />
-</a>
-
-<a href="https://github.com/shahriarkhan099" target="_blank">
-    <img width="50px" src="https://user-images.githubusercontent.com/87497469/204072714-7f7b6687-93ff-46ae-a470-a21a8c6f9158.svg" alt="GitHub"/>
-</a>
-
-
-<!-- <a href="youtube video link" target="_blank">
- <img src="http://img.youtube.com/vi/nTQUwghvy5Q/mqdefault.jpg" alt="Watch the video" width="240" height="180" border="10" />
-</a> -->
-
-
 <br/>
 <br/>
 
@@ -95,4 +63,36 @@
 <br/>
 
 
+<a href="https://shahriarkhan.info"> Visit my <img src="https://img.shields.io/badge/portfolio-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"> </a>
+ 
+<br/>
+
+### Connect with Me
+
+<a href="mailto:shahriar.khan099@gmail.com">
+    <img width="50px" src="https://user-images.githubusercontent.com/87497469/204072698-3df67af4-ed93-4708-b025-d552c6bd8f44.svg" alt="Gmail"/>
+</a>
+	
+<a href="https://www.linkedin.com/in/shahriarkhan099/" target="_blank">
+	<img width="50px" src="https://user-images.githubusercontent.com/87497469/204072724-84eb6e97-35ab-4f7e-b7fc-2605e30767b4.svg" alt="LinkedIn"/>
+</a>
+
+<a href="https://twitter.com/shahriarkhan099" target="_blank">
+    <img width="50px" src="https://user-images.githubusercontent.com/87497469/204072750-a67c5225-725e-4b35-bc0c-f98c910dc0cd.svg" alt="Twitter" />
+</a>
+
+<a href="https://www.youtube.com/@shahriarkhan099" target="_blank">
+    <img width="100px" src="https://github.com/shahriarkhan099/shahriarkhan099/assets/77568415/7caff330-7001-4806-a199-122b49893d9f" alt="YouTube" />
+</a>
+
+<a href="https://github.com/shahriarkhan099" target="_blank">
+    <img width="50px" src="https://user-images.githubusercontent.com/87497469/204072714-7f7b6687-93ff-46ae-a470-a21a8c6f9158.svg" alt="GitHub"/>
+</a>
+
+
+<!-- <a href="youtube video link" target="_blank">
+ <img src="http://img.youtube.com/vi/nTQUwghvy5Q/mqdefault.jpg" alt="Watch the video" width="240" height="180" border="10" />
+</a> -->
+
+<br/>
 
