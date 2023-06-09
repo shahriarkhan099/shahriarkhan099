@@ -88,6 +88,10 @@
  ![Md Shahriar Khan's GitHub stats](https://github-readme-stats.vercel.app/api?username=shahriarkhan099&show_icons=true&theme=dark)
  
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shahriarkhan099&show_icons=true&theme=dark)
+ 
+<a href="https://github.com/shahriarkhan099">
+  <img width="430" align="center" src="https://github-readme-stats.vercel.app/api?username=shahriarkhan099&show_icons=true&theme=slateorange&count_private=true">
+</a>
 
 <br/>
 
