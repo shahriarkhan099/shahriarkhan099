@@ -89,9 +89,9 @@
  
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shahriarkhan099&show_icons=true&theme=dark&count_private=true)
  
-<!-- <a href="https://github.com/shahriarkhan099">
+<a href="https://github.com/shahriarkhan099">
   <img width="430" align="center" src="https://github-readme-stats.vercel.app/api?username=shahriarkhan099&show_icons=true&theme=dark&count_private=true">
-</a> -->
+</a>
 
 <br/>
 
