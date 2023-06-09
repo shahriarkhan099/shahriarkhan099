@@ -85,7 +85,10 @@
 <br/>
 <br/>
 
- ![Md Shahriar Khan's GitHub stats](https://github-readme-stats.vercel.app/api?username=shahriarkhan099&show_icons=true&theme=dark&count_private=true)
+<p align="center">
+   <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=shahriarkhan099&theme=slateorange&border=DDDDDD&stroke=4FDD21&fire=C7DD4F&currStreakNum=DDDB61"/>
+</p>
+<!--  ![Md Shahriar Khan's GitHub stats](https://github-readme-stats.vercel.app/api?username=shahriarkhan099&show_icons=true&theme=dark) -->
  
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shahriarkhan099&show_icons=true&theme=dark&count_private=true)
  
