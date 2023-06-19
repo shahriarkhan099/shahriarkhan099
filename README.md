@@ -25,7 +25,7 @@
 
 - ![Java](https://img.shields.io/badge/-Spring%20Boot-black?style=flat-square&logo=springboot)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-<img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="25" height="25"/>![React](https://img.shields.io/badge/-Angular-black?style=flat-square&logo=angular)
+<img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="22" height="22"/>![React](https://img.shields.io/badge/-Angular-black?)
 <!-- ![Java](https://img.shields.io/badge/-Express.Js-black?style=flat-square&logo=express) -->
 
 - ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql)
