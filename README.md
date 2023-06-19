@@ -18,25 +18,25 @@
 
 <h3>💻 &nbsp; Tech Stacks</h3>
 
-- 💻 &nbsp;  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="30" height="30"/>![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java)
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="30" height="30"/>![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
 
-- 🌐 &nbsp; 
+- 
 ![Java](https://img.shields.io/badge/-Spring%20Boot-black?style=flat-square&logo=springboot)
 [![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java)](https://github.com/)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![React](https://img.shields.io/badge/-Angular-black?style=flat-square&logo=angular)
 <!-- ![Java](https://img.shields.io/badge/-Express.Js-black?style=flat-square&logo=express) -->
 
-- 🛢 &nbsp; 
+-
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 ![PostgreSQL](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 <!-- ![MySQL](https://img.shields.io/badge/-Redis-black?style=flat-square&logo=redis) -->
 
-- 🔧 &nbsp;
+-
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-Jenkins-black?style=flat-square&logo=jenkins)
