@@ -16,7 +16,7 @@
 
 <br/>
 
-<h3>🛠 Tech Stack</h3>
+<h3>💻 &nbsp; Tech Stacks</h3>
 
 - 💻 &nbsp;  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="30" height="30"/>![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
