@@ -24,10 +24,10 @@
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
 
 - ![Java](https://img.shields.io/badge/-Spring%20Boot-black?style=flat-square&logo=springboot)
-[![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java)](https://github.com/)
+<!-- ![Java](https://img.shields.io/badge/-Express.Js-black?style=flat-square&logo=express) -->
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![React](https://img.shields.io/badge/-Angular-black?style=flat-square&logo=angular)
-<!-- ![Java](https://img.shields.io/badge/-Express.Js-black?style=flat-square&logo=express) -->
+
 
 - ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
