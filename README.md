@@ -18,7 +18,7 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp;  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/>![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java)
+- 💻 &nbsp;  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="20" height="20"/>![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
